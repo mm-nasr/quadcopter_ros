@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mazen/quadcopter_ros/quad_ws/devel_isolated/mavros_msgs/setup.sh

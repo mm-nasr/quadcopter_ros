@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/nasr/robotics/quadcopter_ros/quad_ws/devel:$CMAKE_PREFIX_PATH"
-export PWD="/home/nasr/robotics/quadcopter_ros/quad_ws/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/nasr/robotics/quadcopter_ros/quad_ws/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/nasr/robotics/quadcopter_ros/quad_ws/src:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/mazen/quadcopter_ros/quad_ws/devel:$CMAKE_PREFIX_PATH"
+export PWD="/home/mazen/quadcopter_ros/quad_ws/build"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/mazen/quadcopter_ros/quad_ws/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/mazen/quadcopter_ros/quad_ws/src:$ROS_PACKAGE_PATH"

@@ -1,0 +1,8 @@
+prefix=/home/mazen/quadcopter_ros/quad_ws/devel_isolated/mavlink
+exec_prefix=/home/mazen/quadcopter_ros/quad_ws/devel_isolated/mavlink
+includedir=${prefix}/include
+
+Name: mavlink
+Description: MAVLink micro air vehicle marshalling / communication library
+Version: 2020.5.5
+Cflags: -I${includedir}

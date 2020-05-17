@@ -1,2 +1,2 @@
-
+mavlink:mavros/libmavconn:mavros/mavros:mavros/mavros_extras:mavros/mavros_msgs:mavros/test_mavros
 -DCATKIN_DEVEL_PREFIX=/home/mazen/quadcopter_ros/quad_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mazen/quadcopter_ros/quad_ws/install -G Unix Makefiles
