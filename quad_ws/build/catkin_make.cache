@@ -1,2 +1,2 @@
 
--DCATKIN_DEVEL_PREFIX=/home/nasr/robotics/quadcopter_ros/quad_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nasr/robotics/quadcopter_ros/quad_ws/install -G Unix Makefiles
+-DCATKIN_DEVEL_PREFIX=/home/mazen/quadcopter_ros/quad_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mazen/quadcopter_ros/quad_ws/install -G Unix Makefiles
