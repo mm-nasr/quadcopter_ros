@@ -1,0 +1,7 @@
+/Firmware/*
+
+/quad_ws/build/*
+
+/quad_ws/src/mavlink/*
+
+/quad_ws/src/mavros/*
